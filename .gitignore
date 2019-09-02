@@ -1,12 +1,7 @@
 .gradle
 .idea/workspace.xml
 .idea/misc.xml
-.png
 /build/
-caches/
-daemon/
-native/
-wrapper/
 
 # Ignore Gradle GUI config
 gradle-app.setting
